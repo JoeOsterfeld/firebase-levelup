@@ -17,4 +17,8 @@ export class AuthPageComponent implements OnInit {
     // Add code to sign in with Google
   }
 
+  async signOut() {
+    // Add code to sign out
+  }
+
 }
