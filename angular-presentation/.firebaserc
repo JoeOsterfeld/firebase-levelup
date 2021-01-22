@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-levelup": {
+      "hosting": {
+        "angular-presentation": [
+          "fir-levelup"
+        ]
+      }
+    }
+  }
+}

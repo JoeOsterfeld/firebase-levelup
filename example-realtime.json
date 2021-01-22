@@ -1,0 +1,21 @@
+{
+  "{user id}": {
+      "name": "Joe",
+      "posts": {
+          "{post id}": {
+              "title": "Foo",
+              "comments": {
+                  "{comment id}": {
+                    "text": "Bar"
+                  },
+                  "{other comment id": {
+                    "...": "..."
+                  }
+              }
+          },
+          "{other post id}": {
+            "...": "..."
+          }
+      }
+  }
+}

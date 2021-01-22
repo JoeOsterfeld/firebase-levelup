@@ -1,1 +1,39 @@
 /* You can add global styles to this file, and also import other style files */
+
+$space: 6px;
+$bp-orange: #F78F23;
+$bp-purple: #561AB7;
+
+
+html, body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: $bp-purple;
+  margin: 0;
+  padding: 0;
+
+  div, nav, main, span, a {
+    margin: $space;
+    padding: $space;
+  }
+
+  nav {
+    background-color: $bp-orange;
+    margin: 0;
+    font-size: 1.3em;
+    text-align: center;
+  }
+
+  text-align: center;
+
+  main {
+    max-width: 1100px;
+    margin: auto;
+    text-align: left;
+  }
+
+  label {
+    margin-right: $space;
+  }
+
+}
+

@@ -1,0 +1,3 @@
+<a *ngFor="let link of links" [routerLink]="link.toLowerCase().split(' ').join('-')">
+  {{link}}
+</a>

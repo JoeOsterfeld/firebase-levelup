@@ -1,2 +1,4 @@
-./angulardoc.json
+.angulardoc.json
 **/node_modules/**
+
+**/service-account.json

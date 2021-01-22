@@ -1,0 +1,28 @@
+{
+  "pets": {
+    "dave": {
+      "name": "Dave",
+      "type": "Dog",
+      "weightLbs": 80,
+      "greeting": "ruff"
+    },
+    "steve": {
+      "name": "Steve",
+      "type": "Fish",
+      "weightLbs": 1,
+      "greeting": "blarble"
+    },
+    "tom": {
+      "name": "Tom",
+      "type": "Cat",
+      "weightLbs": 5,
+      "greeting": "meow"
+    },
+    "jerry": {
+      "name": "Jerry",
+      "type": "Mouse",
+      "weightLbs": 1,
+      "greeting": "squeek"
+    }
+  }
+}
